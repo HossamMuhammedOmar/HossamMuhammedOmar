@@ -1,10 +1,10 @@
 ### Hey! Nice to see you. 👋
 Welcome to my page!
-I'm Hossam Muhammed Omar, Fullstack Mobile developer from Egypt. <br/> <br/>
+I'm Hossam Muhammed Omar, Fullstack Mobile developer from Egypt. <br/>
 - 🔭 I’m currently developing a mobile app using flutter and dart.
 - 💬 Ask me about anything
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/hossam-omar-1a9201199/">linkedin</a>
-## Language and Tools
+- 📫 How to reach me: <a target="_blank" href="https://www.linkedin.com/in/hossam-omar-1a9201199/">linkedin</a>
+## Language and Tools 
 <b></b>
 <img src ='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
 <img src ='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
