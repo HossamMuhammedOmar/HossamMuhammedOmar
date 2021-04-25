@@ -22,8 +22,9 @@ I'm Hossam Muhammed Omar, Fullstack Mobile developer from Egypt. <br/>
 <img src ='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
 <img src ='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
 <img src ='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
-<br/>
+<br/> <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HossamMuhammedOmar&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HossamMuhammedOmar&show_icons=true&theme=tokyonight)
 <!--
 **HossamMuhammedOmar/HossamMuhammedOmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
