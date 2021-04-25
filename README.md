@@ -1,7 +1,11 @@
 ### Hey! Nice to see you. 👋
 Welcome to my page!
-I'm Hossam, Fullstack Mobile developer from Egypt, living in <b>Nasr City</b>, Cairo. <br/> <br/>
-<b>SKILS</b> <br/> <br/>
+I'm Hossam Muhammed Omar, Fullstack Mobile developer from Egypt. <br/> <br/>
+- 🔭 I’m currently developing a mobile app using flutter and dart.
+- 💬 Ask me about anything
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/hossam-omar-1a9201199/">linkedin</a>
+## Language and Tools
+<b></b>
 <img src ='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
 <img src ='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
 <img src ='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'>
@@ -16,9 +20,12 @@ I'm Hossam, Fullstack Mobile developer from Egypt, living in <b>Nasr City</b>, C
 <img src ='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
 <img src ='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
 <img src ='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
+<img src ='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
+<img src ='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
+<br/>
+https://github-readme-stats.vercel.app/api/top-langs/?username=HossamMuhammedOmar&theme=blue-green
 <!--
 **HossamMuhammedOmar/HossamMuhammedOmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
