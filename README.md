@@ -1,6 +1,8 @@
 ### Hey! Nice to see you. 👋
 Welcome to my page!
-I'm Hossam, Fullstack Mobile developer from Egypt, living in <b>Nasr City</b>, Cairo. 
+I'm Hossam, Fullstack Mobile developer from Egypt, living in <b>Nasr City</b>, Cairo. <br/>
+<b>SKILS</b> <br/>
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 <!--
 **HossamMuhammedOmar/HossamMuhammedOmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
