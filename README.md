@@ -1,7 +1,7 @@
 ## Hey! Nice to see you. <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30" height="30" />
 
 #### Welcome to my page!
-I'm Hossam Muhammed Omar, Fullstack Mobile and Web developer from Egypt. <br/>
+I'm Hossam Muhammed Omar, fullstack mobile and web developer from Egypt. <br/>
 - 🔭 I’m currently developing a mobile app using flutter and dart.
 - 💬 Ask me about anything
 - 📫 How to reach me: <a target="_blank" href="https://www.linkedin.com/in/hossam-omar-1a9201199/">linkedin</a>
