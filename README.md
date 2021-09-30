@@ -4,7 +4,7 @@
 I'm Hossam Muhammed Omar, fullstack mobile and web developer from Egypt. <br/>
 - 🔭 I’m currently developing a mobile app using flutter and dart.
 - 💬 Ask me about anything
-- 📫 How to reach me: Gmail <b>hossamomar9876@gmail.com</b>
+- 📫 How to reach me: <b>hossamomar9876@gmail.com</b> <b>📩</b>
 ## Language and Tools 
 <b></b>
 <img src ='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
