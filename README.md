@@ -1,9 +1,9 @@
 ## Hey! Nice to see you. <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30" height="30" />
 
 #### Welcome to my page!
-I'm Hossam Muhammed Omar, front-end developer from Egypt. <br/>
-- 💬 Ask me about anything.
-- 📫 How to reach me: <b>hossamomardeveloper@gmail.com</b> <b>📩</b>
+<b>Hello there, I'm Hossam Omar, a professional web and game developer with many years of expertise.</b><br/>
+- 💬 <b>Ask me about anything<b>.
+- 📫 <b>hossamomardeveloper@gmail.com</b> <b>📩</b>
 ## Language and Tools 
 <b></b>
 <img src ='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
