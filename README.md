@@ -33,30 +33,34 @@
 <b>I am a Full Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt <img src="https://cdn-icons.flaticon.com/png/512/3092/premium/3092317.png?token=exp=1644428985~hmac=9b4e14f44322f77bda399daf54fef980" width="20">, and I am a Muslim man <img src="https://cdn-icons-png.flaticon.com/512/3858/3858880.png" width="30"><b>
 - 💬 <b>Ask me about anything<b>.
 - 📫 <b>hossamomardeveloper@gmail.com</b> <b>📩</b>
-## Language and Tools 
+### Languages and Tools :
 <b></b>
-<img src ='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-<img src ='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
-<img src ='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'>
-<img src ='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'>
-<img src ='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'>
-<img src ='https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white'>
-<img src ='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'>
-<img src ='https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white'>
-<img src ='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white'>
-<img src ='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white'>
-<img src ='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white'>
-<img src ='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
-<img src ='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
-<img src ='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
-<img src ='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
-<img src ='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
-<br/> <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HossamMuhammedOmar&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HossamMuhammedOmar&show_icons=true&theme=tokyonight)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+### :fire: My Stats :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HossamMuhammedOmar&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HossamMuhammedOmar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+
 <!--
 **HossamMuhammedOmar/HossamMuhammedOmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HossamMuhammedOmar&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HossamMuhammedOmar&show_icons=true&theme=tokyonight)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
