@@ -32,8 +32,8 @@
 
 ### :man_technologist: About Me :
 <b>I am a Full Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt <img src="https://cdn-icons.flaticon.com/png/512/3092/premium/3092317.png?token=exp=1644428985~hmac=9b4e14f44322f77bda399daf54fef980" width="20">, and I am a Muslim man <img src="https://cdn-icons-png.flaticon.com/512/3858/3858880.png" width="30"><b>
- 💬 <b>Ask me about anything<b>.
- 📫 <b>hossamomardeveloper@gmail.com</b> <b>📩</b>
+  
+ 💬 <b>hossamomardeveloper@gmail.com</b>
 ### Languages and Tools :
 <b></b>
 <div>
