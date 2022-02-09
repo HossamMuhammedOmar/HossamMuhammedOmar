@@ -1,6 +1,27 @@
-## Hey! Nice to see you. <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30" height="30" />
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="350"/>
+  <br/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/hossam-omar-a547b6229/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~0117d55ca738022e1a?viewMode=1">
+    <img src="https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork&logoColor=white" alt="Mostaql Badge"/>
+  </a>
+  <a href="https://www.fiverr.com/hossamomardev">
+    <img src="https://img.shields.io/badge/Fiverr-gray?style=for-the-badge&logo=fiverr&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+  Hey! Nice to see you. <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30" height="30" />
+</div>
+
+
+
 
 #### Welcome to my page!
+
 <b>Hello there, I'm Hossam Omar, a professional web and game developer with many years of expertise.</b><br/>
 - 💬 <b>Ask me about anything<b>.
 - 📫 <b>hossamomardeveloper@gmail.com</b> <b>📩</b>
