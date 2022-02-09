@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif" width="250"/>
   <br/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/hossam-omar-a547b6229/">
@@ -19,13 +19,17 @@
   <img src="https://komarev.com/ghpvc/?username=HossamMuhammedOmar&style=flat-square&color=blue" alt=""/>
   <h1>hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> السلام عليكم</h1>
   <br/>
-  
+</div>
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ROjkV0rFTCqDcSzDED/giphy.gif" width="400"/>
 </div>
 
 
 
 
-#### Welcome to my page!
+#### About ME
 
 <b>Hello there, I'm Hossam Omar, a professional web and game developer with many years of expertise.</b><br/>
 - 💬 <b>Ask me about anything<b>.
