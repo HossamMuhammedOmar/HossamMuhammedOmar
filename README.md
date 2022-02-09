@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="350"/>
   <br/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/hossam-omar-a547b6229/" target="_blank">
+  <a href="https://www.linkedin.com/in/hossam-omar-a547b6229/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~0117d55ca738022e1a?viewMode=1">
@@ -12,8 +12,14 @@
   <a href="https://www.fiverr.com/hossamomardev">
     <img src="https://img.shields.io/badge/Fiverr-gray?style=for-the-badge&logo=fiverr&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://mostaql.com/u/hossam_dev">
+    <img src="https://img.shields.io/badge/Mostaql-blue?style=for-the-badge&logo=circle&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
-  Hey! Nice to see you. <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30" height="30" />
+  <img src="https://komarev.com/ghpvc/?username=HossamMuhammedOmar&style=flat-square&color=blue" alt=""/>
+  <h1>hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> السلام عليكم</h1>
+  <br/>
+  
 </div>
 
 
