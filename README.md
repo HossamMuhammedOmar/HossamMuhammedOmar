@@ -23,13 +23,6 @@
 
 
 <div  align="center">
-<div>
-  <img src="https://media.giphy.com/media/ROjkV0rFTCqDcSzDED/giphy.gif" width="250"/>
-</div>
-
-
-
-
 ### :man_technologist: About Me
 <b>My name is Hossam Mohammed, and I work as a Frontend Developer.
 Muslim Egyptian <img src="https://cdn-icons-png.flaticon.com/512/3858/3858880.png" width="25"><b>
