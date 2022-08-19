@@ -1,7 +1,14 @@
+<div id="header" align="center">
+<h3>UpDaTiNg ⚡</h3>
 
+![_______](https://user-images.githubusercontent.com/49618856/185707647-0166c8d1-b6ac-4c59-a58a-c9bac1711732.gif)
+
+ </div>
+ 
+<!-- 
 <div id="header" align="center">
   
- ![kreatib](https://user-images.githubusercontent.com/49618856/174416413-3c11627e-a588-4293-ab79-9b3e73f69b79.png)
+![kreatib](https://user-images.githubusercontent.com/49618856/174416413-3c11627e-a588-4293-ab79-9b3e73f69b79.png)
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HossamMuhammedOmar&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
@@ -9,7 +16,7 @@
   
   ![footer](https://user-images.githubusercontent.com/49618856/174416606-4f2010a2-2bca-4aed-83b5-3718204ff085.png)
   </div>
-
+ -->
 <!--
 **HossamMuhammedOmar/HossamMuhammedOmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
