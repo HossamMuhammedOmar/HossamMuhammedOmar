@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<h3>Updating ⚡</h3>
+<h3>Be Creative</h3>
 
 ![_______](https://user-images.githubusercontent.com/49618856/185707647-0166c8d1-b6ac-4c59-a58a-c9bac1711732.gif)
 
