@@ -1,7 +1,10 @@
 <div id="header" align="center">
-<h3>Be Creative</h3>
-
+<!-- 
 ![_______](https://user-images.githubusercontent.com/49618856/185707647-0166c8d1-b6ac-4c59-a58a-c9bac1711732.gif)
+<h3>Be Creative</h3>
+ -->
+ 
+![Art Academy (8)](https://user-images.githubusercontent.com/49618856/188476055-c7ce2926-4dc4-461a-989e-995d77c03c47.png)
 
  </div>
  
