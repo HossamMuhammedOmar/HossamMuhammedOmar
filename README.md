@@ -9,7 +9,7 @@
 <h3>Be Creative</h3>
  -->
  
-<img src="https://user-images.githubusercontent.com/49618856/188476055-c7ce2926-4dc4-461a-989e-995d77c03c47.png" width='400px'>
+<img src="https://user-images.githubusercontent.com/49618856/188476055-c7ce2926-4dc4-461a-989e-995d77c03c47.png" width='300px'>
  
  </div>
  
@@ -17,6 +17,8 @@
 <div id="header" align="center">
   
 ![kreatib](https://user-images.githubusercontent.com/49618856/174416413-3c11627e-a588-4293-ab79-9b3e73f69b79.png)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HossamMuhammedOmar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HossamMuhammedOmar&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
