@@ -3,7 +3,7 @@
 
 <br/>
 
-<div id="header" align="center">
+<div id="header" >
 
 
 
