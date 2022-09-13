@@ -1,6 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&pause=1000&color=000000&background=FF141400&width=600&height=100&lines=Hello%2C+I'm+Hossam+Omar;I'm+a+JavaScript+developer+)](https://git.io/typing-svg)
 
+<br/>
+
 <div id="header" align="center">
 
 
