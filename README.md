@@ -1,7 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&pause=1000&color=000000&background=FF141400&width=600&height=100&lines=Hello%2C+I'm+Hossam+Omar;I'm+a+JavaScript+developer+)](https://git.io/typing-svg)
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=000000&background=FF141400&width=600&height=100&lines=Hello%2C+I'm+Hossam+Omar;I'm+a+JavaScript+developer+)](https://git.io/typing-svg)
 
 <div id="header" >
 
@@ -12,8 +9,8 @@
 <h3>Be Creative</h3>
  -->
  
-![Art Academy (8)](https://user-images.githubusercontent.com/49618856/188476055-c7ce2926-4dc4-461a-989e-995d77c03c47.png)
-
+<img src="https://user-images.githubusercontent.com/49618856/188476055-c7ce2926-4dc4-461a-989e-995d77c03c47.png" width='400px'>
+ 
  </div>
  
 <!-- 
