@@ -1,10 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=000000&background=FF141400&width=600&height=100&lines=Hello%2C+I'm+Hossam+Omar;I'm+a+JavaScript+developer+)](https://git.io/typing-svg)
+
 
 <div id="header" >
 
 
 
 <!-- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=000000&background=FF141400&width=600&height=100&lines=Hello%2C+I'm+Hossam+Omar;I'm+a+JavaScript+developer+)](https://git.io/typing-svg)
+
 ![_______](https://user-images.githubusercontent.com/49618856/185707647-0166c8d1-b6ac-4c59-a58a-c9bac1711732.gif)
 <h3>Be Creative</h3>
  -->
