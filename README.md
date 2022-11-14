@@ -1,17 +1,24 @@
 
 
 <div id="header" >
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mali&weight=500&size=30&pause=1000&color=0D2E3C&background=FF141400&vCenter=true&width=600&height=28&lines=Hello%2C+I'm+Hossam+Omar;I'm+a+front-end+developer)](https://git.io/typing-svg)
+ 
+ <img src="https://user-images.githubusercontent.com/49618856/201556084-1d4445d3-0f23-4366-8978-76319bac8fff.png" width='18px'> <b>Gmail</b>: hossamomar9876@gmail.com
 
+ <img src="https://user-images.githubusercontent.com/49618856/201556321-35f1f4c1-439a-4f9f-8099-29e396b3165d.png" width='18px'> <b>Telegram</b>: https://t.me/HossamOmarM 
 
-
+ 
 <!-- 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=000000&background=FF141400&width=600&height=100&lines=Hello%2C+I'm+Hossam+Omar;I'm+a+JavaScript+developer+)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/49618856/188476055-c7ce2926-4dc4-461a-989e-995d77c03c47.png" width='200px'>
+
+
 
 ![_______](https://user-images.githubusercontent.com/49618856/185707647-0166c8d1-b6ac-4c59-a58a-c9bac1711732.gif)
 <h3>Be Creative</h3>
  -->
- 
-<img src="https://user-images.githubusercontent.com/49618856/188476055-c7ce2926-4dc4-461a-989e-995d77c03c47.png" width='300px'>
  
  </div>
  
