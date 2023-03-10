@@ -5,9 +5,10 @@
  
 
   
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HossamMuhammedOmar&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HossamMuhammedOmar&show_icons=true&theme=tokyonight)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HossamMuhammedOmar&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
    
-  <b>Gmail</b>: hossamomar9876@gmail.com  |  <b>Telegram</b>: https://t.me/HossamOmarM 
+ <b>Gmail</b>: hossamomar9876@gmail.com  
+ <b>Telegram</b>: https://t.me/HossamOmarM 
   
  
 
