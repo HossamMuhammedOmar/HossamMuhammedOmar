@@ -7,7 +7,7 @@
   
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HossamMuhammedOmar&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
    
- <b>Gmail</b>: hossamomar9876@gmail.com  
+ <b>Gmail</b>: hossamomardeveloper@gmail.com  
  <b>Telegram</b>: https://t.me/HossamOmarM 
   
  
