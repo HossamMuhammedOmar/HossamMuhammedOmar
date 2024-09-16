@@ -9,13 +9,13 @@
    
  <b>Gmail</b>: hossamomardeveloper@gmail.com  
  <b>Telegram</b>: https://t.me/HossamOmarM <br/>
- <b>Company</b>: https://www.nursecareercollege.com/ - https://www.nursebillboard.com/
+
   
  
 
 <!-- 
  ![Design and Technology](https://user-images.githubusercontent.com/49618856/223084647-add45df0-8bd9-4b54-9564-fe05d9a86a19.jpg)
-
+ <b>Company</b>: https://www.nursecareercollege.com/ - https://www.nursebillboard.com/
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=000000&background=FF141400&width=600&height=100&lines=Hello%2C+I'm+Hossam+Omar;I'm+a+JavaScript+developer+)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/49618856/201556084-1d4445d3-0f23-4366-8978-76319bac8fff.png" width='18px'>
 <img src="https://user-images.githubusercontent.com/49618856/201556321-35f1f4c1-439a-4f9f-8099-29e396b3165d.png" width='14px'>
